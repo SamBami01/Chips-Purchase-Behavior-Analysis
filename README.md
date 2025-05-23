@@ -66,14 +66,15 @@ This task explores customer transaction data for the chips category to uncover p
 | **Histogram** | Distribution of chip `PACK_SIZE` sold |
 | **Mosaic Plot** | Contribution to sales by `LIFESTAGE` and `PREMIUM_CUSTOMER` |
 
-<img width="1437" src="https://github.com/SamBami01/PwC-Call-Centre-Analysis-PowerBi/blob/main/Call-Center-%20Analysis%20Samuel%20Bamidele.pdf">
+<img width="1437" src="https://github.com/SamBami01/Chips-Purchase-Behavior-Analysis/blob/main/Visuals/Transaction%20over%20time.png">
 
-<img width="1437" src="https://github.com/SamBami01/PwC-Call-Centre-Analysis-PowerBi/blob/main/Call-Center-%20Analysis%20Samuel%20Bamidele.pdf">
+<img width="1437" src="https://github.com/SamBami01/Chips-Purchase-Behavior-Analysis/blob/main/Visuals/December%20linegraph.png">
 
-<img width="1437" src="https://github.com/SamBami01/PwC-Call-Centre-Analysis-PowerBi/blob/main/Call-Center-%20Analysis%20Samuel%20Bamidele.pdf">
+<img width="1437" src="https://github.com/SamBami01/Chips-Purchase-Behavior-Analysis/blob/main/Visuals/Histogram%20of%20Pack.png">
 
-<img width="1437" src="https://github.com/SamBami01/PwC-Call-Centre-Analysis-PowerBi/blob/main/Call-Center-%20Analysis%20Samuel%20Bamidele.pdf">
+<img width="1437" src="https://github.com/SamBami01/Chips-Purchase-Behavior-Analysis/blob/main/Visuals/Mosaic%20Plot%201.png">
 
+<img width="1437" src="https://github.com/SamBami01/Chips-Purchase-Behavior-Analysis/blob/main/Visuals/Mosaic%20Plot%202.png">
 ---
 
 ## Insights
