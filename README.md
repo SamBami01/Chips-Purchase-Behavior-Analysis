@@ -74,7 +74,7 @@ This task explores customer transaction data for the chips category to uncover p
 
 <img width="1437" src="https://github.com/SamBami01/Chips-Purchase-Behavior-Analysis/blob/main/Visuals/Mosaic%20Plot%201.png">
 
-<img width="1437" src="https://github.com/SamBami01/Chips-Purchase-Behavior-Analysis/blob/main/Visuals/Mosaic%20Plot%202.png">
+<img width="1437" src="https://github.com/SamBami01/Chips-Purchase-Behavior-Analysis/blob/main/Visuals/Mosaice%20plot%202.png">
 ---
 
 ## Insights
